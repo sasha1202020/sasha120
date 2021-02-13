@@ -13,6 +13,7 @@ public class CardTrick {
        c.setSuit("Hearts");
         c.setValue(10);
         System.out.println(c.getValue()+" "+c.getSuit());
+        Card k=new Card();    
     }
     
 }
