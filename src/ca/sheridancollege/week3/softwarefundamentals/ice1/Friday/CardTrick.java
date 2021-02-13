@@ -12,7 +12,7 @@ public class CardTrick {
         //This is code created with Github
        c.setSuit("Hearts");
         c.setValue(10);
-        System.out.println(c.getValue+" "+c.getSuit);
+        System.out.println(c.getValue()+" "+c.getSuit());
     }
     
 }
