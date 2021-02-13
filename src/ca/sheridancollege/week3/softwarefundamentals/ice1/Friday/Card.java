@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Name: Aleksandr Sirik
+//Student ID:991581636
 package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
